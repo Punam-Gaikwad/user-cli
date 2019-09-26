@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	pb "github.com/Punam-Gaikwad/microservices/user-service/proto/user"
+	pb "github.com/Punam-Gaikwad/user-service/proto/user"
 	"google.golang.org/grpc"
 )
 
